@@ -61,7 +61,7 @@ const Home: FC<HomeProps> = ({ faqList }) => {
   const oneInchRate = data ? (100 - (1 / data) * 100).toFixed(2) : 1;
 
   return (
-    <Layout title="Vaultify" subtitle="Bagulho doido aqui eh sexo financ">
+    <Layout title="Vaultify" subtitle="Usar dinheiro nunca foi tão divertido!">
       <Head>
         <title>Vaultify</title>
       </Head>
