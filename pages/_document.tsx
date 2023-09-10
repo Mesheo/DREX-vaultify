@@ -48,7 +48,7 @@ export default class MyDocument extends Document {
   }
 
   get metaTitle(): string {
-    return 'Lido Frontend Template | Lido';
+    return 'Vaultfy';
   }
 
   get metaDescription(): string {
@@ -69,7 +69,7 @@ export default class MyDocument extends Document {
         <Head>
           <link rel="manifest" href="/manifest.json" />
           <link rel="icon" href="/favicon.ico" sizes="any" />
-          <link rel="icon" type="image/svg+xml" href="favicon-512x512.svg" />
+          <link rel="icon" type="image/svg+xml" href="Logo_da_Vaultify.svg" />
           <link
             rel="apple-touch-icon"
             sizes="180x180"

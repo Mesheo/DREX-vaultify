@@ -61,12 +61,9 @@ const Home: FC<HomeProps> = ({ faqList }) => {
   const oneInchRate = data ? (100 - (1 / data) * 100).toFixed(2) : 1;
 
   return (
-    <Layout
-      title="Lido Frontend Template"
-      subtitle="Develop Lido Apps without hassle"
-    >
+    <Layout title="Vaultify" subtitle="Bagulho doido aqui eh sexo financ">
       <Head>
-        <title>Lido | Frontend Template</title>
+        <title>Vaultify</title>
       </Head>
       <Wallet />
       <Block>
